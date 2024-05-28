@@ -1,7 +1,7 @@
 # odin-recipes
 
 # Introduction
--odin reipes is the first project i will be doing in the odin project's curriculum, introducing me to HTML structure and concepts.
+-odin recipes is the first project i will be doing in the odin project's curriculum, introducing me to HTML structure and concepts.
 
 # Skills demonstrated
 -Creating HTML files with proper structure. 
