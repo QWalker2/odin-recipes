@@ -1,0 +1,67 @@
+body {
+    background-color: grey;
+    color: white;
+}
+
+.header {
+    background-color: black;
+    padding: 10px 20px;
+    margin: 0;
+    text-align: center;
+    font-size: 50px;
+    font-family: Verdana, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+ul {
+    list-style: none;
+    font-size: 45px;
+    margin: 16px;
+    padding: 0;
+    display: flex;
+    gap: 32px;
+    text-align: center;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+img {
+    width: 380px;
+    height: 380px;
+
+}
+
+.steak {
+    margin: auto;
+    padding: auto;
+    color: black;
+    border: double thick black;
+}
+
+.shrimp {
+    margin: auto;
+    padding: auto;
+    color: black;
+    border: double thick black;
+}
+
+.hamburger {
+    margin: auto;
+    padding: auto;
+    color: black;
+    border: double thick black;
+}
+
+figcaption {
+    font-style: italic;
+}
+
+
+
